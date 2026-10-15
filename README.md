@@ -8,15 +8,15 @@ A collection of tasks for the university AI course.
 
 #### 1. Machine Learning - Travelling Salesman Problem
 Finding the optimal route using different algorithms:
-- [Genetic Algorithm](https://github.com/AndriiQwq/tsp-genetic-algorithm)
-- [Simulated Annealing](https://github.com/AndriiQwq/tsp-simulated-annealing)
+- [Genetic Algorithm](./ga/)
+- [Simulated Annealing](./sa/)
 
 #### 2. Classification and Clustering
-- [Agglomerative Clustering](https://github.com/AndriiQwq/agglomerative-clustering) — point classification
+- [Agglomerative Clustering](./ac/) — point classification
 
 #### 3. Artificial Neural Networks
-- [MNIST Classifier](https://github.com/AndriiQwq/MNIST-klasifikator) — digit recognition *(uses PyTorch)*
-- [Backpropagation Algorithm](https://github.com/AndriiQwq/Backpropagation-algoritmus) — implementation of the backpropagation algorithm
+- [MNIST Classifier](./mc/) — digit recognition *(uses PyTorch)*
+- [Backpropagation Algorithm](./bp/) — implementation of the backpropagation algorithm
 
 ---
 

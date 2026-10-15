@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+build/
+
+# Logs
+*.log
+logs/
+
+# Virtual Environment
+venv/
+env/
+
+# Models
+*.npy
